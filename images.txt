@@ -7,7 +7,7 @@ rabbitmq:3.12.9
 livinphp/rocketmq:5.1.0
 apache/skywalking-oap-server:9.3.0
 portainer/portainer:1.25.0
-skywalking-ui:9.3.0
+apache/skywalking-ui:9.3.0
 livinphp/rocketmq:5.1.0
 nginx:1.25.1
 bitnami/prometheus:2.47.2
